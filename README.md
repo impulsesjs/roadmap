@@ -4,7 +4,7 @@
 
 ### 0.1
 
-* **Lead:** @jcorreia
+* **Lead:** @joaocac
 * Documentation for the base elements composing the library
 * Documentation for the general function
 * Base functionality
