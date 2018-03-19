@@ -9,6 +9,11 @@
 * Base functionality
 * Base functionality unit tests
 
+### 0.5
+* **Lead:** @joaocac
+* Vulnerabilities removed from the code
+* Documentation updates with all shields and main information
+
 ### 1.0
 * **Lead:** @joaocac
 * Channel Documentation
